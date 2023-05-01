@@ -1,2 +1,2 @@
 # Ant-Collective-Sorting
-Collective sorting algorithm based on the article "The Dynamics of collective sorting Robot-like ants &amp; Ant-like robots" 
+MODÉLISATION DU TRI DU COUVAIN CHEZ LES FOURMIS PAR UN SYSTÈME MULTI-AGENT EN UTILISANT NetLogo
